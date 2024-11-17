@@ -1,3 +1,25 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://lgarciavelazquez.github.io/'
+languageCode = 'es'
+title = 'Mi 2º sitio en hugo'
+theme = 'ananke'
+
+[menu]
+[[menu.main]]
+identifier = 'about'
+name = 'Acerca de...'
+url = '/about/'
+[[menu.main]]
+identifier = 'page1'
+name = 'Primera pagina...'
+url = '/primera-pagina/'
+[[menu.main]]
+identifier = 'articles'
+name = 'Articulos'
+url = '/articles/'
+[[menu.main]]
+identifier = 'posts'
+name = 'Publicaciones'
+url = '/posts/'
+
+[params]
+social = true
