@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Mi 2º sitio en hugo</title>
-    <link>http://localhost:2525/articles/</link>
+    <link>http://localhost:1313/articles/</link>
     <description>Recent content in Articles on Mi 2º sitio en hugo</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sun, 17 Nov 2024 14:37:26 +0100</lastBuildDate>
-    <atom:link href="http://localhost:2525/articles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Article 2</title>
-      <link>http://localhost:2525/articles/aticle-2/</link>
+      <link>http://localhost:1313/articles/aticle-2/</link>
       <pubDate>Sun, 17 Nov 2024 14:37:26 +0100</pubDate>
-      <guid>http://localhost:2525/articles/aticle-2/</guid>
+      <guid>http://localhost:1313/articles/aticle-2/</guid>
       <description>&lt;p&gt;&amp;hellip;Este es el artículo 2&lt;/p&gt;</description>
     </item>
     <item>
       <title>Article 1</title>
-      <link>http://localhost:2525/articles/aticle-1/</link>
+      <link>http://localhost:1313/articles/aticle-1/</link>
       <pubDate>Sun, 17 Nov 2024 14:37:04 +0100</pubDate>
-      <guid>http://localhost:2525/articles/aticle-1/</guid>
+      <guid>http://localhost:1313/articles/aticle-1/</guid>
       <description>&lt;p&gt;&amp;hellip;Este es el artículo 1&lt;/p&gt;</description>
     </item>
   </channel>
